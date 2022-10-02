@@ -1,0 +1,10 @@
+version: "3"
+services:
+  app:
+    container_name: ch03-app
+    build:
+      context: .
+      dockerfile: Dockerfile 
+    tty: true
+    command: /bin/bash
+  
