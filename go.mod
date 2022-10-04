@@ -1,4 +1,4 @@
-module github.com/kwtryo/studygo
+module github.com/kwtryo/studygo3
 
 go 1.19
 
